@@ -1,5 +1,3 @@
-# html_tips
-
 --Bootstrap like column base view for basic html--
 
 <div class="Row">
